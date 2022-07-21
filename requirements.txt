@@ -1,0 +1,6 @@
+scapy
+argparse
+requests
+ipaddress
+termcolor
+
