@@ -4,10 +4,15 @@ This is network scanner written in python , which utilizes the power of python a
 # Usage
 
 git clone https://github.com/surya-dev-singh/Network-Scanner/
+
 cd Network-Scanner
+
 python3 -m pip install -r requirements.txt
+
 python3 network_scanner.py --target 192.168.1.1
+
 **you can also use CIDR (classless interdomain routing) like so :** 
+
 python3 network_scanner.py -t 192.168.1.1/24
 
 # Thanks For Using  🙌 ✌️ 
